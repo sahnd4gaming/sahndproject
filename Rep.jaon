@@ -1,0 +1,205 @@
+{
+  "META": {
+    "repoName": "azu0609's repo",
+    "repoIcon": "https://azu0609.github.io/repo/repo.logo.png"
+  },
+  "Tweaked": [
+    {
+      "name": "VideoStar Full (Recommded)",
+      "version": "v2",
+      "down": "https://archive.org/download/ppssppss/videostar.ipa",
+      "dev": "sahnd",
+      "icon": "https://w7.pngwing.com/pngs/262/894/png-transparent-music-video-star-app-store-red-star-angle-triangle-symmetry-thumbnail.png",
+      "category": "Macdirtycow",
+      "description": "videstar.",
+      "bundleID": "com.frontierdesign.videostarplustwo",
+      "contact": {
+        "web": "https://bomberfish.ca/",
+        "fosstodon": "https://fosstodon.org/@BomberFish"
+      }
+    },
+{
+  "name": "Alight Motion",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/AlightMotion_4.5.14_OkkoOkan.ipa",
+  "dev": "sahnd",
+  "icon": "https://freelogopng.com/images/all_img/1664536854alight-motion-logo-png.png",
+  "category": "sahnd",
+  "description": "Alight Motion",
+  "bundleID": "com.alightmotion.edit",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+{
+  "name": "CAPCUT MOD",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/AlightMotion_4.5.14_OkkoOkan.ipa",
+  "dev": "sahnd",
+  "icon": "https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png",
+  "category": "sahnd",
+  "description": "CAPCUT MOD",
+  "bundleID": "com.capcut.edit",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+{
+  "name": "FUNIMATE MOD",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/Funimate%20%2815.5.1%29.ipa",
+  "dev": "sahnd",
+  "icon": "https://img.utdstc.com/icon/976/659/9766599f8b18c9e20e5fd3329dcec18d578fdc19f4388afc28617c2d417680dd:200",
+  "category": "sahnd",
+  "description": "FUNIMATE MOD",
+  "bundleID": "com.funimate.edit",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+   {
+      "name": "Snapchat Maybe",
+      "version": "V1",
+      "down": "https://archive.org/download/ppssppss/SnapChat%20Maybe%20%5Bv12.25.0%5D.ipa",
+      "dev": "Sahnd",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384066.png",
+      "category": "S",
+      "description": "Snapchat Maybe",
+      "bundleID": "com.snapchatmaybe.cc",
+      "contact": {
+        "web": "..",
+        "fosstodon": ".."
+      }
+    },
+{
+  "name": "INSTAGRAM MOD",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/Instagram%20-%20KamoHacks%20%5B278.0%5D.ipa",
+  "dev": "sahnd",
+  "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+  "category": "sahnd",
+  "description": "INSTAGRAM MOD",
+  "bundleID": "com.instagram.meta",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+{
+  "name": "TIKTOK MOD",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/TikTok%20-%20KamoHacks%20%5B29.2.0%5D.ipa",
+  "dev": "sahnd",
+  "icon": "https://cdn-icons-png.flaticon.com/512/3938/3938074.png ",
+  "category": "sahnd",
+  "description": "TIKTOK MOD",
+  "bundleID": "com.tiktok.mod",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+{
+  "name": "YOUTUBE MOD",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/YouTube%20-%20KamoHacks%20%5B18.14.1%5D.ipa",
+  "dev": "sahnd",
+  "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384044.png",
+  "category": "sahnd",
+  "description": "YOUTUBE MOD",
+  "bundleID": "com.youtube.google",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+    {
+      "name": "PicsArt",
+      "version": "V1",
+      "down": "https://archive.org/download/ppssppss/PicsArt%20-%20Kamohacks%20%5Bv22.1.7%5D.ipa",
+      "dev": "SAHND",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/b4/3b/a1b43b12-bce1-9709-9b45-207f15c238f2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/350x350.png?",
+      "category": "Macdirtycow",
+      "description": "PicsArt",
+      "bundleID": "com.picsart.edit",
+      "contact": {
+        "web": "..",
+        "fosstodon": ".."
+      }
+    },
+{
+  "name": "Alook Browser",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/AI%20Art%20%281.3.2%29.ipa",
+  "dev": "sahnd",
+  "icon": "https://pp.myapp.com/ma_icon/0/icon_54110685_1669359976/256",
+  "category": "sahnd",
+  "description": "Alook Browser",
+  "bundleID": "com.alook.browser",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+{
+  "name": "Alook Browser",
+  "version": "V1",
+  "down": "https://archive.org/download/ppssppss/AI%20Art%20%281.3.2%29.ipa",
+  "dev": "sahnd",
+  "icon": "https://pp.myapp.com/ma_icon/0/icon_54110685_1669359976/256",
+  "category": "sahnd",
+  "description": "Alook Browser",
+  "bundleID": "com.alook.browser",
+  "contact": {
+    "web": "",
+    "fosstodon": ""
+  }
+},
+    {
+      "name": "GTA SA",
+      "version": "V1",
+      "down": "https://archive.org/download/gta-sa-2.0.2.11-t-4-c-ipa/GTA%20SA-_2.0.2.11%40T4C_IPA.ipa",
+      "dev": "SAHND",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Grand_Theft_Auto_San_Andreas_logo.svg",
+      "category": "Macdirtycow",
+      "description": "gta sa",
+      "bundleID": "com.rockstargame.gtasa",
+      "contact": {
+        "web": "..",
+        "fosstodon": ".."
+      }
+    },
+    {
+      "name": "Minecraft",
+      "version": "V1",
+      "down": "https://archive.org/download/minecraft-adovip-1.19.60-1676279254/Minecraft%20-%20adovip_1.19.60_1676279254.ipa",
+      "dev": "SAHND",
+      "icon": "https://w7.pngwing.com/pngs/407/468/png-transparent-minecraft-logo-minecraft-logo-minecraft-ground-angle-video-game-wood-thumbnail.png",
+      "category": "Macdirtycow",
+      "description": "Minecraft",
+      "bundleID": "com.mojang.minecraft",
+      "contact": {
+        "web": "..",
+        "fosstodon": ".."
+      }
+    },
+{
+      "name": "GTA III",
+      "version": "V1",
+      "down": "https://archive.org/download/ppssppss/GTA_%20III%20-%20Kamohacks%20%5Bv1.3.13%5D.ipa",
+      "dev": "Sannd",
+      "icon": "https://www.pngitem.com/pimgs/b/9-91869_theft-png.png",
+      "category": "Sahnd",
+      "description": "Mac",
+      "bundleID": "com.rockstargame.gta3",
+      "contact": {
+        "web": "..",
+        "fosstodon": ".."
+      }
+    }
+
+  ]
+}
