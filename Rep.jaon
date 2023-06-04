@@ -1,6 +1,6 @@
 {
   "META": {
-    "repoName": "azu0609's repo",
+    "repoName": "SAHND APPS",
     "repoIcon": "https://azu0609.github.io/repo/repo.logo.png"
   },
   "Tweaked": [
@@ -130,20 +130,6 @@
         "fosstodon": ".."
       }
     },
-{
-  "name": "Alook Browser",
-  "version": "V1",
-  "down": "https://archive.org/download/ppssppss/AI%20Art%20%281.3.2%29.ipa",
-  "dev": "sahnd",
-  "icon": "https://pp.myapp.com/ma_icon/0/icon_54110685_1669359976/256",
-  "category": "sahnd",
-  "description": "Alook Browser",
-  "bundleID": "com.alook.browser",
-  "contact": {
-    "web": "",
-    "fosstodon": ""
-  }
-},
 {
   "name": "Alook Browser",
   "version": "V1",
